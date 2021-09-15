@@ -22,8 +22,7 @@
 - Bắn zombie bằng súng
 
 ## Các hình ảnh từ bài tập lớn
-![screenshot1](https://github.com/linhkhoi/flight-book-HuynhLinhKhoi/blob/main/screencapture-127-0-0-1-5000-booking-2021-09-15-17_29_38.png)
-![screenshot1](https://github.com/linhkhoi/flight-book-HuynhLinhKhoi/blob/main/screencapture-127-0-0-1-5000-booking-seat-2021-09-15-17_30_28.png)
-![screenshot1](https://github.com/linhkhoi/flight-book-HuynhLinhKhoi/blob/main/screencapture-127-0-0-1-5000-payment-2021-09-15-17_31_08.png)
-![screenshot1](https://github.com/linhkhoi/flight-book-HuynhLinhKhoi/blob/main/screencapture-127-0-0-1-5000-report-month-admin-2021-09-15-17_32_24.png)
+![screenshot1](https://github.com/linhkhoi/Zombie-Shooter/blob/main/Screenshot%20(102).png)
+![screenshot1](https://github.com/linhkhoi/Zombie-Shooter/blob/main/Screenshot%20(103).png)
+![screenshot1](https://github.com/linhkhoi/Zombie-Shooter/blob/main/Screenshot%20(104).png)
 
